@@ -16,13 +16,15 @@ Clase principal : WizardCreate
 
 ### Diagrama de Clase
 
-![](image/README/1650770901063.png)
+![practicaHarry](https://user-images.githubusercontent.com/70116251/164956464-4ab30a34-a1fb-45d7-acc3-a5ead588af87.png)
+
 
 ### Screenshots del programa
 
-![](image/README/1650770938159.png)
 
-![](image/README/1650770949170.png)
+![HarryScreenshot](https://user-images.githubusercontent.com/70116251/164956466-58f8e297-01c4-421c-8c62-9f0557b6bf42.png)
+
+![HarryScreenshot2](https://user-images.githubusercontent.com/70116251/164956467-55f3a574-564d-4656-9ecb-3a3fbb9efd58.png)
 
 
 ## practicaMona: Herencia y Polimorfismo
@@ -33,15 +35,16 @@ Clase principal: CatFactory
 
 ### Diagrama de Clase
 
-![](image/README/1650771295454.png)
+![practicaMona](https://user-images.githubusercontent.com/70116251/164956490-5dff3f99-156e-421a-9003-99f35ebe74ae.png)
 
 ### Screenshots del programa
 
-![](image/README/1650771324035.png)
+![ScreenshotMona](https://user-images.githubusercontent.com/70116251/164956494-8467d7b3-0ccd-47bf-91f9-ebbf3e4b971a.png)
 
-![](image/README/1650771335748.png)
+![ScreenshotMona2](https://user-images.githubusercontent.com/70116251/164956497-e848081a-79e2-4a60-99d6-5fa8ae81b7b1.png)
 
-![](image/README/1650771348649.png)
+![ScreenshotMona3](https://user-images.githubusercontent.com/70116251/164956499-f08c3764-15a5-46c2-8cc7-4f176ae40cea.png)
+
 
 
 ## practicaMultiverse: Interfaces
@@ -54,15 +57,15 @@ Clase principal: Spiderverse
 
 ### Diagrama de Clase
 
-![screenmult1](https://user-images.githubusercontent.com/70116251/164956379-ac54b2f5-de38-4a6c-92ce-da3d79d5ddd0.png)
+![practicaMultiverse](https://user-images.githubusercontent.com/70116251/164956416-572a6bea-eaf8-4c73-8c8c-65ddc3bdf079.png)
 
 ### ScreenShots del programa
 
-![](image/README/1650771715107.png)
+![screenmult1](https://user-images.githubusercontent.com/70116251/164956451-7d906c5b-2ef4-4dea-ac72-d9a28b0c74ae.png)
 
-![](image/README/1650771726301.png)
+![screenmult2](https://user-images.githubusercontent.com/70116251/164956413-526613b9-878a-4299-b956-2c93c62157a7.png)
 
-![](image/README/1650771735882.png)
+![scrennmult3](https://user-images.githubusercontent.com/70116251/164956414-300bd0be-f5e9-4173-8381-720276623fc0.png)
 
 
 ## practicaComic: Hilos
@@ -75,17 +78,18 @@ Clase principal: ComicRun
 
 ### Diagrama de Clase
 
-![](image/README/1650772000276.png)
+![practicaComic](https://user-images.githubusercontent.com/70116251/164956522-c5232b10-a7dc-4e81-b16c-dfe5ef3bd748.png)
+
 
 ### Screenshots del programa
 
 Parte 1 del comic:
 
-![](image/README/1650772023328.png)
+![ComicRun](https://user-images.githubusercontent.com/70116251/164956523-12a7f337-d865-407b-b057-98b45b671058.gif)
 
 Parte 2 del comic:
 
-![](image/README/1650772034935.png)
+![ComicRun2](https://user-images.githubusercontent.com/70116251/164956525-66e0bdb7-92b6-48ec-8aaa-48dfb933c365.gif)
 
 
 ## practicaLineUp: Multihilos
@@ -98,10 +102,10 @@ Clase principal: ComicRun
 
 ### Diagrama de Clase
 
-![](image/README/1650772515414.png)
+![practicaLineUp](https://user-images.githubusercontent.com/70116251/164956559-3a539498-a4c2-46ee-9fe5-365c7e7c9277.png)
 
 ### Screenshots del programa 
 
 *No se incluye el audio de las presentaciones.
 
-![](image/README/1650772597041.png)
+![LineUpScreenshot](https://user-images.githubusercontent.com/70116251/164956556-3804757e-fdf9-45b5-8e98-516c8343f066.gif)
