@@ -61,11 +61,11 @@ Clase principal: Spiderverse
 
 ### ScreenShots del programa
 
-![screenmult1](https://user-images.githubusercontent.com/70116251/164956451-7d906c5b-2ef4-4dea-ac72-d9a28b0c74ae.png)
+![ScreenshotMulti1](https://user-images.githubusercontent.com/70116251/164956618-6aa5f6f5-2e29-44fa-a041-44b4442c9a51.png)
 
-![screenmult2](https://user-images.githubusercontent.com/70116251/164956413-526613b9-878a-4299-b956-2c93c62157a7.png)
+![ScreenshotMulti2](https://user-images.githubusercontent.com/70116251/164956619-7b083987-f09f-40db-8dee-ceec45c2027c.png)
 
-![scrennmult3](https://user-images.githubusercontent.com/70116251/164956414-300bd0be-f5e9-4173-8381-720276623fc0.png)
+![ScreenshotMulti3](https://user-images.githubusercontent.com/70116251/164956621-798b099b-a627-46f6-be83-aa279ed87058.png)
 
 
 ## practicaComic: Hilos
