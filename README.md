@@ -54,7 +54,7 @@ Clase principal: Spiderverse
 
 ### Diagrama de Clase
 
-![](image/README/1650771677950.png)
+![screenmult1](https://user-images.githubusercontent.com/70116251/164956379-ac54b2f5-de38-4a6c-92ce-da3d79d5ddd0.png)
 
 ### ScreenShots del programa
 
